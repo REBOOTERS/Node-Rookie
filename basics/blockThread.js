@@ -1,5 +1,5 @@
 /**
- * Created by co-mall on 2016/10/20.
+ * Created by Rookie_rebooter on 2016/10/20.
  */
 var fs = require('fs');
 
